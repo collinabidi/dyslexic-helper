@@ -1,4 +1,4 @@
-# dyslexic-helper
+# Reaioudme
 Created for Tartanhacks 2020
 
 Built using Python, Pytorch, OpenCV, pytesseract modules and CRAFT-pytorch.
